@@ -1,0 +1,20 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# File hasil scraping (jangan diupload datanya)
+*.csv
+*.xlsx
+*.json
+
+# VS Code
+.vscode/
